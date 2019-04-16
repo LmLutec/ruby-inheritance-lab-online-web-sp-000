@@ -5,6 +5,9 @@ class Student
     @@knowledge = []
   end 
   
+  def learn(string_K)
+    @@knowledge << string_K
+  end
   
 end
 
