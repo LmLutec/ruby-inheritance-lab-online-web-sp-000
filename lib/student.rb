@@ -1,5 +1,4 @@
-class Student < User 
-end 
+class Student 
   
   attr_accessor :first_name, :last_name
   
@@ -16,3 +15,4 @@ end
   end 
   
 
+end 
