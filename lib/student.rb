@@ -15,5 +15,4 @@ end
     @knowledge
   end 
   
-end
 
