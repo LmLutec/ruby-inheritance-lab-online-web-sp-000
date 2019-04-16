@@ -10,5 +10,9 @@ class Student
     @knowledge << string_K
   end
   
+  def knowledge
+    @knowledge
+  end 
+  
 end
 
